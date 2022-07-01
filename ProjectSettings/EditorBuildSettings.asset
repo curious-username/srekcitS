@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: eaa23c9e2b22a0c418e4c53f24417f6f
+  - enabled: 1
+    path: Assets/Scenes/Scene1_Space.unity
+    guid: fe3337c27ef60bd44b8a6b44fe544851
+  - enabled: 1
+    path: Assets/Scenes/Lvl2_Alien_Ship_Internal.unity
+    guid: 6ebdaddd80c178048af204512c266aba
   m_configObjects: {}
