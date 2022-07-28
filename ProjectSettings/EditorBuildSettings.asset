@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Scene1_Space.unity
     guid: fe3337c27ef60bd44b8a6b44fe544851
   - enabled: 1
+    path: Assets/Scenes/Free_Flight.unity
+    guid: de2d76fce757adb46aedbd73745bc2ca
+  - enabled: 1
     path: Assets/Scenes/Lvl2_Alien_Ship_Internal.unity
     guid: 6ebdaddd80c178048af204512c266aba
   m_configObjects: {}
