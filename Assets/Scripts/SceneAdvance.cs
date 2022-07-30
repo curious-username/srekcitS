@@ -19,7 +19,12 @@ public class SceneAdvance : MonoBehaviour
 
     public void LoadNextLevel()
     {
-        SceneManager.LoadScene("Lvl2_Alien_Ship_Internal");
+        SceneManager.LoadScene("Scene1_Space");
+    }
+
+    public void MainMenu()
+    {
+        SceneManager.LoadScene("Main_Menu");
     }
 
     public void Quit()

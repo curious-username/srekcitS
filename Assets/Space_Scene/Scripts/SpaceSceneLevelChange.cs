@@ -20,7 +20,7 @@ public class SpaceSceneLevelChange : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.Q))
         {
-            Application.Quit();
+            SceneManager.LoadScene("Main_Menu");
         }
     }
 }
